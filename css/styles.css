@@ -1,10 +1,11 @@
 .edu {
   float: left;
-  padding: 5px;
+  padding: 20px;
 }
 body{
-  width:auto;
+  width:75%s;
   background-color: #999966;
+  font-family: sans-serif;
 }
 .proj{
   clear:both;
