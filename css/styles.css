@@ -6,6 +6,7 @@ body{
   width:auto;
   background-color: #999966;
   font-family: sans-serif;
+  font-size: 20px;
 }
 #proj{
   clear:both;
@@ -53,11 +54,18 @@ h2{
   padding: 20px;
 }
 .copy{
-  margin-left: 50px;
-}
-.ht{
-  font-style: oblique;
+  margin-left: 100px;
 }
 #services{
   clear:both;
+}
+.serv{
+  padding-top:20px;
+  padding-bottom:20px;
+}
+@media only screen and (max-width: 500px){
+  body{
+   font-size:20px;
+   color: white;
+  }
 }
