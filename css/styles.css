@@ -3,7 +3,7 @@
   padding: 20px;
 }
 body{
-  width:75%s;
+  width:auto;
   background-color: #999966;
   font-family: sans-serif;
 }
@@ -45,4 +45,13 @@ h2{
   background-color: brown;
   width: 30%;
   padding: 20px;
+}
+#contacts{
+  display:flex;
+  justify-content:space-between;
+  background-color: #800000;
+  padding: 20px;
+}
+.copy{
+  margin-left: 50px;
 }
