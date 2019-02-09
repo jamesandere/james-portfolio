@@ -23,6 +23,19 @@ ul>li>a{
   font-size: 20px;
   color:white;
 }
+ul>li>a:hover{
+  color: tomato;
+}
 #head{
   clear: right;
+  text-align: center;
+  padding-bottom: 40px;
+}
+#about{
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+#proj{
+  padding-top: 30px;
+  padding-bottom: 40px;
 }
