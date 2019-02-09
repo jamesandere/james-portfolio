@@ -7,6 +7,22 @@ body{
   background-color: #999966;
   font-family: sans-serif;
 }
-.proj{
+#proj{
   clear:both;
+}
+ul{
+  float: right;
+}
+ul>li{
+  float:left;
+  display:block;
+  padding: 20px;
+}
+ul>li>a{
+  text-decoration: none;
+  font-size: 20px;
+  color:white;
+}
+#head{
+  clear: right;
 }
