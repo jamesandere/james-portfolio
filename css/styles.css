@@ -2,3 +2,10 @@
   float: left;
   padding: 5px;
 }
+body{
+  width:auto;
+  background-color: #999966;
+}
+.proj{
+  clear:both;
+}
